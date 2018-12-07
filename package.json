@@ -1,0 +1,15 @@
+{
+  "name": "motio-x-font",
+  "version": "1.0.0",
+  "description": "Motion Data x Variable Fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maija Grudule",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
